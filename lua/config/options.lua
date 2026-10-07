@@ -7,3 +7,4 @@
 vim.g.lazyvim_python_lsp = "basedpyright"
 
 vim.o.wrap = true
+vim.o.textwidth = 78
